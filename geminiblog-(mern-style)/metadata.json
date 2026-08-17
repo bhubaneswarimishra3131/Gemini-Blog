@@ -1,0 +1,5 @@
+{
+  "name": "GeminiBlog (MERN Style)",
+  "description": "A full-featured blog application simulation with Authentication, CRUD operations, and Gemini AI-powered writing assistance. Uses LocalStorage to simulate a MongoDB backend.",
+  "requestFramePermissions": []
+}
