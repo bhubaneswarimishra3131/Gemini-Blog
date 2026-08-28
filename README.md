@@ -1,2 +1,2 @@
 # project
-My first Project
+My first Frontend Project
